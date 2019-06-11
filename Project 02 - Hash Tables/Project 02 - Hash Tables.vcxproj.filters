@@ -14,4 +14,31 @@
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\P2\QuadraticProbing\QuadraticProbing.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\P2\QuadraticProbing\TestQuadraticProbing.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\P2\QuadraticProbing\QuadraticProbing.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="..\P2\simple_dict.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="..\P2\american-english-huge.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="..\P2\Test1_jabber.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="..\P2\Test2_odyssey.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+  </ItemGroup>
 </Project>

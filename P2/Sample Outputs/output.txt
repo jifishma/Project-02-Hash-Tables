@@ -1,0 +1,103 @@
+Twas(1): was 
+brillig(1): 
+slithy(1): 
+toves(1): 
+Did(2): rid 
+gyre(2): 
+gimble(2): 
+wabe(2): 
+mimsy(3): 
+were(3): wire 
+borogoves(3): 
+mome(4): mode more 
+raths(4): 
+outgrabe(4): 
+Beware(6): 
+Jabberwock(6): 
+son(6): so on 
+jaws(7): 
+bite(7): 
+claws(7): class 
+catch(7): match 
+Beware(8): 
+Jubjub(8): 
+shun(8): 
+frumious(9): 
+Bandersnatch(9): 
+He(11): e be we 
+took(11): look 
+his(11): is has this 
+vorpal(11): 
+sword(11): word 
+hand(11): had and 
+time(12): times 
+manxome(12): 
+foe(12): for 
+he(12): h e be we the 
+sought(12): 
+rested(13): 
+he(13): h e be we the 
+Tumtum(13): 
+tree(13): three 
+stood(14): 
+awhile(14): while 
+thought(14): 
+uffish(16): 
+thought(16): 
+he(16): h e be we the 
+stood(16): 
+Jabberwock(17): 
+eyes(17): 
+flame(17): 
+Came(18): name same 
+whiffling(18): 
+tulgey(18): 
+wood(18): good word 
+burbled(19): 
+came(19): name same case 
+two(21): to 
+two(21): to 
+vorpal(22): 
+blade(22): 
+went(22): 
+snicker(22): 
+snack(22): 
+He(23): e be we 
+left(23): 
+dead(23): head read deal 
+its(23): it is 
+He(24): e be we 
+went(24): 
+galumphing(24): 
+back(24): 
+thou(26): 
+slain(26): 
+Jabberwock(26): 
+Come(27): 
+arms(27): 
+beamish(27): 
+boy(27): by body 
+O(28): a c e g h i p s t 
+frabjous(28): 
+day(28): may way 
+Callooh(28): 
+Callay(28): 
+He(29): e be we 
+chortled(29): 
+his(29): is has this 
+joy(29): 
+Twas(31): was 
+brillig(31): 
+slithy(31): 
+toves(31): 
+Did(32): rid 
+gyre(32): 
+gimble(32): 
+wabe(32): 
+mimsy(33): 
+were(33): wire 
+borogoves(33): 
+mome(34): mode more 
+raths(34): 
+outgrabe(34): 
+Press any key to continue . . . 
